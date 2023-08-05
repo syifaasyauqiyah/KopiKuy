@@ -1,0 +1,57 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://catering.puncak.net/wp-content/uploads/2018/05/Cara-Membuat-Es-Cendol-Resep-Es-Cendol-Pandan-Yang-Segar.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/OIP.oppNJ4yAxxOtE5qE7S0rQQHaFS?w=274&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "nama": "Es Campur",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
